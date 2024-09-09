@@ -5,3 +5,4 @@ I like Git
 Today is Monday and tomorrow is not monday
 Tuesday is not holiday
 I do not consider wednesday as a day
+Thusday is not a weekend but friday is weekend
